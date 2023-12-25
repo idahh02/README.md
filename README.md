@@ -6,7 +6,7 @@
   - Lecturer Name: Dr. Mohd Khairul Azmi Bin Hassan
   - Date of Submission: 28/12/2023
   
-# NAME AND MATRIC N0.
+# NAME AND MATRIC NO.
 
   1. Che Wan Sarah Najwa Binti Che Wan Ahmad (2117644)
   2. Nor Ain Natashya Binti Hairi (2118124)
