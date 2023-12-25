@@ -15,7 +15,9 @@
   5. Nor Hidayati Binti Munadi (2214282)
   6. Aina Afifah Binti Azeri (2016178)
 
-# TITLE OF THE PROJECT : Blood Bank Web Application
+# TITLE OF THE PROJECT 
+
+  Blood Bank Web Application
 
 ## INTRODUCTION
 
