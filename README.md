@@ -15,11 +15,11 @@
   5. Nor Hidayati Binti Munadi (2214282)
   6. Aina Afifah Binti Azeri (2016178)
 
-# TITILE OF THE PROJECT
+# TITLE OF THE PROJECT
 
   Blood Bank Web Application
 
-# INTRODUCTION
+## INTRODUCTION
 
   In a world where medical emergencies, accidents, and surgeries are an unavoidable part of life, access to a robust and efficient blood donation system is critical. 
   The importance of timely and secure blood donations cannot be overstated, as countless lives depend on this precious resource. Recognizing the vital role that technology 
@@ -28,8 +28,8 @@
   cutting-edge technologies to create a user-friendly platform that encourages blood donation, facilitates efficient inventory management, and provides immediate access to 
   blood supplies when and where they are needed the most.
 
-# OBJECTIVE
-# FEATURES AND FUNCTIONALITY
-# ENTITIY RELATIONAL DIAGRAM (ERD)
-# SEQUENCE DIAGRAM
-# REFERENCES
+## OBJECTIVE
+## FEATURES AND FUNCTIONALITY
+## ENTITIY RELATIONAL DIAGRAM (ERD)
+## SEQUENCE DIAGRAM
+## REFERENCES
