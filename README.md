@@ -35,3 +35,4 @@
 
 ## SEQUENCE DIAGRAM
 ## REFERENCES
+  1. https://www.scribd.com/document/491117488/Doc1
