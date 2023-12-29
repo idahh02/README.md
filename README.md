@@ -34,6 +34,8 @@
 ![UML class](https://github.com/idahh02/README.md/assets/154742278/a9e169d4-a1b5-4294-b17a-460f32631256)
 
 ## SEQUENCE DIAGRAM
+![WAD Sequence Diagram-Donor drawio](https://github.com/idahh02/README.md/assets/147692602/cb0d30ce-8df1-4b22-bd7f-92a97862d857)
+
 ![WAD Sequence Diagram-Staff drawio](https://github.com/idahh02/README.md/assets/147692602/829bdf77-104b-4962-a385-04ed49de6ebf)
 
 ## REFERENCES
