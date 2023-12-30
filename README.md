@@ -30,7 +30,7 @@
 
 ## OBJECTIVE
 
-  The objective of Blood Bank Web Application is to develop an efficient donor management in healthcare service. This web application encompasses a comprehensive system that seamless       integrates with healthcare institutions to facilitate efficient collection, processing, storage, and distribution processes. Futhermore, this web application also implement the           features for real-time tracking of blood products, minimizing delays and ensuring timely responses to healthcare professionals blood requests.
+  The objective of Blood Bank Web Application is to develop an efficient donor management in the healthcare service. This web application encompasses a comprehensive system that seamless   integrates with healthcare institutions to facilitate efficient collection, processing, storage, and distribution processes. Futhermore, this web application also implement the           features for real-time tracking of blood products, minimizing delays and ensuring timely responses to healthcare professionals blood requests.
 
 ## FEATURES AND FUNCTIONALITY
 ## ENTITIY RELATIONAL DIAGRAM (ERD)
