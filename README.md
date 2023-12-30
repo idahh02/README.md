@@ -36,8 +36,9 @@
 ## ENTITIY RELATIONAL DIAGRAM (ERD)
 ![UML class](https://github.com/idahh02/README.md/assets/154742278/899a78ee-68ad-4d10-9bdf-6cf399c1c674)
 
+
 ## SEQUENCE DIAGRAM
-![WAD Sequence Diagram-Donor drawio (1)](https://github.com/idahh02/README.md/assets/147692602/8936a436-7eca-4665-b710-cf4daab27b6a)
+![WAD Sequence Diagram-Donor drawio (1)](https://github.com/idahh02/README.md/assets/101859532/11aea8b7-7307-4753-90b7-5e65e355ef4d)
 
 ## REFERENCES
   1. https://www.scribd.com/document/491117488/Doc1
