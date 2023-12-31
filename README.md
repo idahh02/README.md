@@ -33,6 +33,20 @@
   The objective of Blood Bank Web Application is to develop an efficient donor management in the healthcare service. This web application encompasses a comprehensive system that seamless   integrates with healthcare institutions to facilitate efficient collection, processing, storage, and distribution processes. Futhermore, this Bank Blood Web Application also implement    the features for real-time tracking of blood products, minimizing delays and ensuring timely responses to healthcare professionals blood requests.
 
 ## FEATURES AND FUNCTIONALITY
+
+By using Blood Bank Web Application, the operation of blood donation and blood supplies is paperless. The donors and blood donation centres can communicate efficiently and coordinate with each other to minimize time and effort required for blood donation process. This system helps donors to donate their blood by fill in the form that provided first. It also allows the recipients to request for blood easily. This system will store all the donor and recipient information that consist of their ID, donor and recipient names, gender, date of birth, phone number and blood type to the system database.
+
+
+| Staff Side | Donor Side | Recipient Side |
+| --- | --- | --- |
+| Manage Donor Data | Donate blood page | Request for Blood page |
+| Manage Recipient Data |
+| Update blood bag stock |
+
+
+
+  
+
 ## ENTITIY RELATIONAL DIAGRAM (ERD)
 ![UML class](https://github.com/idahh02/README.md/assets/154742278/899a78ee-68ad-4d10-9bdf-6cf399c1c674)
 
