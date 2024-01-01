@@ -64,7 +64,8 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
   
 - form recipient
   
-  ![image](https://github.com/idahh02/README.md/assets/92359703/2847b07f-bdd9-46db-a2ed-8c07523a836d)
+  ![image](https://github.com/idahh02/README.md/assets/92359703/93768557-2ff9-480d-925f-d499fe10d392)
+
 
   
 - confirmation page (donor + recipient)
