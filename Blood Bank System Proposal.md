@@ -57,11 +57,13 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 ## MOCK-UP SCREENSHOT
 
 - mainpage for donor and recipient
+  
   ![image](https://github.com/idahh02/README.md/assets/92359703/1124c550-7859-4163-9d5b-a17ea04f1f6e)
 
 - form donor
   
 - form recipient
+  
   ![image](https://github.com/idahh02/README.md/assets/92359703/2847b07f-bdd9-46db-a2ed-8c07523a836d)
 
   
