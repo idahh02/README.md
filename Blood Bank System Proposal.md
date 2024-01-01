@@ -62,13 +62,13 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 - form donor
   
 - form recipient
-  ![image](https://github.com/idahh02/README.md/assets/92359703/93768557-2ff9-480d-925f-d499fe10d392)
+  ![Blood Bank Web Application Mockup (3)](https://github.com/idahh02/README.md/assets/101859532/501c4e5c-fb50-490b-abf1-63a455ee35dd)
 
 - confirmation page (donor + recipient)
   ![image](https://github.com/idahh02/README.md/assets/155282287/d7f5d504-4750-4122-8e51-e58c49b6290d)
 
 - staff log in
-  ![Screenshot (121)](https://github.com/idahh02/README.md/assets/101694420/086161eb-e759-4744-baa4-1d394ab400c5)
+![Blood Bank Web Application Mockup (1)](https://github.com/idahh02/README.md/assets/101859532/56c25f95-2393-4442-99d2-a064171a8b0a)
 
 - list of bloodbag
   
