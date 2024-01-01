@@ -71,7 +71,8 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 ![Blood Bank Web Application Mockup (1)](https://github.com/idahh02/README.md/assets/101859532/56c25f95-2393-4442-99d2-a064171a8b0a)
 
 - List of bloodbag
-  
+![Screenshot (524)](https://github.com/idahh02/README.md/assets/147692602/698a01a0-c9aa-45ac-80e7-0bc74f1907e3)
+
 - Update bloodbag
 ![Blood Bank Web Application Mockup (2)](https://github.com/idahh02/README.md/assets/101859532/602780c6-c84f-477a-95ee-1003456d3045)
 
