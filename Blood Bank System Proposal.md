@@ -55,5 +55,19 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 ![WAD Sequence Diagram-Donor drawio (1)](https://github.com/idahh02/README.md/assets/101859532/11aea8b7-7307-4753-90b7-5e65e355ef4d)
 
 ## MOCK-UP SCREENSHOT
+- form donor
+  
+- form recipient
+  
+- confirmation page (donor + recipient)
+  
+- staff log in
+  
+  ![Screenshot (121)](https://github.com/idahh02/README.md/assets/101694420/086161eb-e759-4744-baa4-1d394ab400c5)
+
+- list of bloodbag
+  
+- update page
+  
 ## REFERENCES
   1. https://www.scribd.com/document/491117488/Doc1
