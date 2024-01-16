@@ -30,15 +30,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: NiceAdmin
-  * Updated: Nov 17 2023 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-
-
 <style>
     body {
         font-family: 'Arial', sans-serif;
@@ -113,7 +104,7 @@
                 <div class="card-header text-center">{{ __('Staff Login') }}</div>
 
                 <div class="card-body">
-                    <form method="POST" action="{ route('login') }">
+                    <form method="POST" action="{{ route('login') }}">
                         @csrf
 
                         <br><br>
@@ -121,7 +112,7 @@
                         <div class="form-group row">
                             <label for="email" class="col-md-4 col-form-label text-md-right">{{ __('E-Mail') }}</label>
                             <div class="col-md-8">
-                                <input id="email" type="email" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" required autocomplete="email" autofocus placeholder="E-Mail">
+                                <input id="email" type="email" class="form-control @error('email') is-invalid @enderror" name="email" required autocomplete="email" autofocus placeholder="E-Mail">
                                 @error('email')
                                     <span class="invalid-feedback" role="alert">
                                         <strong>{{ $message }}</strong>
@@ -146,11 +137,11 @@
 
                         <div class="form-group row mb-0">
                             <div class="col-md-8 offset-md-4 text-center">
-                                <button onclick="document.location='/dashboard'" type="submit" class="btn btn-primary">LOGIN
-                                </button>
+                                <button type="submit" class="btn btn-primary">LOGIN</button>
                             </div>
                         </div>
                     </form>
+
                 </div>
             </div>
         </div>
@@ -180,5 +171,3 @@
 </body>
 
 </html>
-
-
