@@ -88,5 +88,8 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 ![image](https://github.com/idahh02/README.md/assets/154742278/40e3a523-66c5-43d4-9cad-2383373eab79)
 2. Staff Login page - This page consists of 2 input which are Email and Password for staff to fill in to log in to the Staff page. Staff may access the Staff page by entering the assigned email address and password in the two provided input fields. Only valid credentials allow access, errors will be displayed for incorrect information or missing entries.
 ![image](https://github.com/idahh02/README.md/assets/154742278/4ee4eadf-fe8c-441b-bae7-061358bfb3e1)
-
-
+3. 
+## CHALLENGES / DIFFICULTIES
+1. It is challenging to insert data into the database and display it when connecting to the tables in phpMyAdmin
+2. One team member who is not giving full cooperation in completing the project
+3. 
