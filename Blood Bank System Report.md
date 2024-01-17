@@ -1,4 +1,4 @@
-# PROPOSAL
+# REPORT
 
   - Course Code and Title: INFO 3305 Web Application Development
   - Section: 1
@@ -78,7 +78,7 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 - Update bloodbag
 ![Blood Bank Web Application Mockup (2)](https://github.com/idahh02/README.md/assets/101859532/602780c6-c84f-477a-95ee-1003456d3045)
 
-  
+
 ## REFERENCES
   1. https://www.scribd.com/document/491117488/Doc1
 
