@@ -70,7 +70,7 @@
             <h1>Blood Bag Inventory</h1>
             <nav>
               <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ route('home') }}">Home</a></li>
+                <li class="breadcrumb-item"><a href="{ route('bloodbags') }">Home</a></li>
                 <li class="breadcrumb-item active">Blood Bag Inventory</li>
               </ol>
             </nav>
