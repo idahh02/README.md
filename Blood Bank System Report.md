@@ -86,9 +86,19 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 ## PROJECT SYSTEM CAPTURED SCREEN AND EXPLANATION
 1. Mainpage -  This page consists of 3 buttons which will navigate to different pages which are Donor, Recipient and Staff
 ![image](https://github.com/idahh02/README.md/assets/154742278/40e3a523-66c5-43d4-9cad-2383373eab79)
-2. Staff Login page - This page consists of 2 input which are Email and Password for staff to fill in to log in to the Staff page. Staff may access the Staff page by entering the assigned email address and password in the two provided input fields. Only valid credentials allow access, errors will be displayed for incorrect information or missing entries.
+
+2. Blood Donor Form - This page will display a form which prompt user to insert their personal details and personal informations.
+
+3. Blood Recipient Form - This page will display a form which prompt user to insert their personal details and personal informations.
+
+4. Confirmation page - This confirmation page will be display after user click submit button in the donor/recipient form.
+
+5. Staff Login page - This page consists of 2 input which are Email and Password for staff to fill in to log in to the Staff page. Staff may access the Staff page by entering the assigned email address and password in the two provided input fields. Only valid credentials allow access, errors will be displayed for incorrect information or missing entries.
 ![image](https://github.com/idahh02/README.md/assets/154742278/4ee4eadf-fe8c-441b-bae7-061358bfb3e1)
-3. 
+
+6. List of Blood Bag page - This page will display the list of collected blood bag data 
+
+7. Update Blood Bag page - 
 
 ## CHALLENGES / DIFFICULTIES
 1. It is challenging to insert data into the database and display it when connecting to the tables in phpMyAdmin
