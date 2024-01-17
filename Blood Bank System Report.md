@@ -72,7 +72,7 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 
 4. Confirmation page - This confirmation page will be display after user click submit button in the donor/recipient form.
 
-   ![image](https://github.com/idahh02/README.md/assets/101859532/da7e93d7-4163-4fd8-93c8-535bd7f858d7)
+![image](https://github.com/idahh02/README.md/assets/101859532/7033d9b3-9ed7-4e6b-a144-e52227ecbcf7)
 
 
 5. Staff Login page - This page consists of 2 input which are Email and Password for staff to fill in to log in to the Staff page. Staff may access the Staff page by entering the assigned email address and password in the two provided input fields. Only valid credentials allow access, errors will be displayed for incorrect information or missing entries.
