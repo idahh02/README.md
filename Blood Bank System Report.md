@@ -54,34 +54,6 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 ## SEQUENCE DIAGRAM
 ![WAD Sequence Diagram-Donor drawio (1)](https://github.com/idahh02/README.md/assets/101859532/11aea8b7-7307-4753-90b7-5e65e355ef4d)
 
-## MOCK-UP SCREENSHOT
-
-- Mainpage
-  ![Blood Bank Web Application Mockup](https://github.com/idahh02/README.md/assets/101859532/cc1157fa-bf6a-4c25-a75d-8ea3a32183f0)
-
-- Form donor
- ![Screenshot (525)](https://github.com/idahh02/README.md/assets/147692602/3ccb9a8a-7893-41eb-932f-e1e41f0ffe71)
-
-  
-- Form recipient
-  ![Blood Bank Web Application Mockup (3)](https://github.com/idahh02/README.md/assets/101859532/501c4e5c-fb50-490b-abf1-63a455ee35dd)
-
-- Confirmation page (donor + recipient)
-  ![image](https://github.com/idahh02/README.md/assets/155282287/d7f5d504-4750-4122-8e51-e58c49b6290d)
-
-- Staff log in
-![Blood Bank Web Application Mockup (1)](https://github.com/idahh02/README.md/assets/101859532/56c25f95-2393-4442-99d2-a064171a8b0a)
-
-- List of bloodbag
-![Screenshot (524)](https://github.com/idahh02/README.md/assets/147692602/698a01a0-c9aa-45ac-80e7-0bc74f1907e3)
-
-- Update bloodbag
-![Blood Bank Web Application Mockup (2)](https://github.com/idahh02/README.md/assets/101859532/602780c6-c84f-477a-95ee-1003456d3045)
-
-
-## REFERENCES
-  1. https://www.scribd.com/document/491117488/Doc1
-
 
 ## PROJECT SYSTEM CAPTURED SCREEN AND EXPLANATION
 1. Mainpage -  This page consists of 3 buttons which will navigate to different pages which are Donor, Recipient and Staff
