@@ -88,6 +88,7 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 ![image](https://github.com/idahh02/README.md/assets/154742278/40e3a523-66c5-43d4-9cad-2383373eab79)
 
 2. Blood Donor Form - This page will display a form which prompt user to insert their personal details and personal informations.
+![image](https://github.com/idahh02/README.md/assets/147692602/394a15ef-58ed-40d2-83b4-7f10bd892aa5)
 
 3. Blood Recipient Form - This page will display a form which prompt user to insert their personal details and personal informations.
 
