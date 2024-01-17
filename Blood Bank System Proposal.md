@@ -92,4 +92,4 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 ## CHALLENGES / DIFFICULTIES
 1. It is challenging to insert data into the database and display it when connecting to the tables in phpMyAdmin
 2. One team member who is not giving full cooperation in completing the project
-3. 
+3. Difficult to fix the error displayed 
