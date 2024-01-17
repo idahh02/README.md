@@ -88,39 +88,39 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
    
 ![image](https://github.com/idahh02/README.md/assets/154742278/40e3a523-66c5-43d4-9cad-2383373eab79)
 
-3. Blood Donor Form - This page will display a form which prompt user to insert their personal details and personal informations.
+2. Blood Donor Form - This page will display a form which prompt user to insert their personal details and personal informations.
 
    ![image](https://github.com/idahh02/README.md/assets/147692602/68a9db5f-e34d-489f-9b2d-d32fc20100c6)
 
 
-4. Blood Recipient Form - This page will display a form which prompt user to insert their personal details and personal informations.
+3. Blood Recipient Form - This page will display a form which prompt user to insert their personal details and personal informations.
 
    ![image](https://github.com/idahh02/README.md/assets/147692602/faa08a36-ab74-4f6f-88d6-b9f1feef9d40)
 
 
-5. Confirmation page - This confirmation page will be display after user click submit button in the donor/recipient form.
+4. Confirmation page - This confirmation page will be display after user click submit button in the donor/recipient form.
 
    ![image](https://github.com/idahh02/README.md/assets/101859532/da7e93d7-4163-4fd8-93c8-535bd7f858d7)
 
 
-7. Staff Login page - This page consists of 2 input which are Email and Password for staff to fill in to log in to the Staff page. Staff may access the Staff page by entering the assigned email address and password in the two provided input fields. Only valid credentials allow access, errors will be displayed for incorrect information or missing entries.
+5. Staff Login page - This page consists of 2 input which are Email and Password for staff to fill in to log in to the Staff page. Staff may access the Staff page by entering the assigned email address and password in the two provided input fields. Only valid credentials allow access, errors will be displayed for incorrect information or missing entries.
    
 ![image](https://github.com/idahh02/README.md/assets/154742278/4ee4eadf-fe8c-441b-bae7-061358bfb3e1)
 
-9. Blood Bag Information page - This page will display a list of collected blood bag data and include a Delete button for removing the selected Bag ID and Insert button for inserting blood bag information.
+6. Blood Bag Information page - This page will display a list of collected blood bag data and include a Delete button for removing the selected Bag ID and Insert button for inserting blood bag information.
     
    ![image](https://github.com/idahh02/README.md/assets/101859532/07314344-1b07-4d4e-a4f7-43fc614e14f1)
    
-11. Update Blood Bag page - A form where staff need to fill in the donor's details such as Bag ID, Blood Type, Donation and Expiry Date, Test Result and Extra Notes. There is a Save button to update the form that will go to the Blood Bag Information
+7. Update Blood Bag page - A form where staff need to fill in the donor's details such as Bag ID, Blood Type, Donation and Expiry Date, Test Result and Extra Notes. There is a Save button to update the form that will go to the Blood Bag Information
     
    ![image](https://github.com/idahh02/README.md/assets/101859532/c946a416-69e6-4d1c-912f-f2eb44825d05)
 
-13. Blood Bag Inventory - It consists of an Edit button that, when clicked, navigates to the EditBloodBag page. On this page, staff can click the Add/Subtract button to update the number of blood packs. Upon clicking the Save button, the application will redirect to the Blood Bag Inventory page.
+8. Blood Bag Inventory - It consists of an Edit button that, when clicked, navigates to the EditBloodBag page. On this page, staff can click the Add/Subtract button to update the number of blood packs. Upon clicking the Save button, the application will redirect to the Blood Bag Inventory page.
     
    ![image](https://github.com/idahh02/README.md/assets/101859532/679ea760-3788-466d-9c7f-4acfcf8bdeeb)
    ![image](https://github.com/idahh02/README.md/assets/101859532/23912589-530a-400c-aa7b-094728c99b7d)
 
-15. Profile - Show details of the staff of BloodDonation which are Full Name, Position, Phone Number, Email, Address and Country
+9. Profile - Show details of the staff of BloodDonation which are Full Name, Position, Phone Number, Email, Address and Country
     
 ![image](https://github.com/idahh02/README.md/assets/101859532/144fda09-bf51-457c-abfd-a1af032e8af8)
 
@@ -132,4 +132,4 @@ By using Blood Bank Web Application, the operation of blood donation and blood s
 2. One team member who is not giving full cooperation in completing the project
 3. Identifying and resolving the displayed error is challenging
 4. Pinpointing the occurrence of logical errors is difficult and requires thorough investigation
-5. 
+5. Differing coding styles and project structures can make collaboration difficult and code harder to maintain
