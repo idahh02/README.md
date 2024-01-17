@@ -3,13 +3,13 @@
 use App\Http\Controllers\BloodBagController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\EditProfileController;
+use App\Http\Controllers\bloodController;
 
 Route::post('/bloodbags/update/{id}', [BloodBagController::class, 'update'])->name('bloodbags.update');
 
 Route::get('/', function () {
     return view('home');
 })->name('home');
-
 
 Route::get('/bloodbags', [BloodBagController::class, 'index'])->name('bloodbags.index');
 Route::get('/bloodbags/{id}/edit', [BloodBagController::class, 'edit'])->name('bloodbags.edit');
@@ -23,9 +23,9 @@ Route::get('/login', function () {
     return view('login');
 });
 
-Route::get('/editprofile', function () {
-    return view('editprofile');
-});
+Route::get('/profile', function () {
+    return view('profile');
+})->name('profile');;
 
 Route::get('/bloodtest', function () {
     return view('bloodtest');
@@ -33,8 +33,10 @@ Route::get('/bloodtest', function () {
 
 Route::post('/login', [LoginController::class, 'login'])->name('login');
 
+Route::get('/profile/edit', [EditProfileController::class, 'edit'])->name('profile.edit');
+Route::put('/profile/update', [EditProfileController::class, 'update'])->name('profile.update');
 
-Route::get('/editprofile', [EditProfileController::class, 'edit'])->name('editprofile.edit');
-Route::put('/editprofile/update', [EditProfileController::class, 'update'])->name('editprofile.update');
+Route::get('/profile/show', [ProfileController::class, 'show']);
 
 
+Route::get('/bloodtestt', [bloodController::class, 'countByBloodType']);
